@@ -2,12 +2,12 @@
   <h1 align="center">
     Oi, Tudo bem? Eu sou a <a href="https://www.linkedin.com/in/tulani-souza-07b0a6103/">Tulani Souza 😃️</a> 
   </h1>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tulanisouza)](https://github.com/tulanisouza/github-readme-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tulanisouza&show_icons=true&theme=transparent)
+
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tulanisouza&show_icons=true&theme=transparent)
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulanisouza&layout=compact&langs_count=7&theme=radical"/> 
 </div>
 <br>
-
+ 
 <div align="center">
   <img align="center" alt="Js" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
