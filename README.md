@@ -1,15 +1,25 @@
-# 👩‍💻 Oi, tudo bem? Eu sou a [Tulani Souza 😃](https://www.linkedin.com/in/tulani-souza-07b0a6103/)
+# Oi, tudo bem? Eu sou a [Tulani Souza ](https://www.linkedin.com/in/tulani-souza-07b0a6103/)
 
-🔐 **Em formação em Cibersegurança (conclusão: dez/2025)**
+Profissional em tecnologia com foco **em Cibersegurança**, formação baseada em laboratórios práticos, análise de vulnerabilidades, defesa de sistemas e ethical hacking.
 
-💻 **Formações em Desenvolvimento Front-end e Full Stack (Vai na Web, 2022–2025)**  
-🎓 **Graduada em Gestão de Tecnologia da Informação (UNESA-RJ, 2024)**  
-☁️ **Especialização em Computação em Nuvem (Escola da Nuvem, 2024)**  
+📌 Minhas formações:  
+- Graduada em **Gestão de Tecnologia da Informação (UNESA-RJ, 2024)**
+- Formação em **Cibersegurança (Kensei/Vai na Web, dez/2025)** 
+- Formação em **Desenvolvimento Front-end e Full Stack (Vai na Web, 2022 e 2025)**  
+- Especialização em **Computação em Nuvem – AWS (Escola da Nuvem, 2024)**
 
-Ao longo dessa jornada, desenvolvi experiência em **HTML, CSS, JavaScript, React, APIs REST, Python, MySQL e AWS**, além de vivência prática em **Linux, Docker e redes e análise de vulnerabilidades**, utilizando ferramentas como **Nmap, ARP-Scan, DVWA e ambientes simulados com WSL/Ubuntu**Cibersegurança**.  
+ Minha base técnica compreende:
+- Segurança defensiva (Blue Team): hardening de servidores, SIEM/ELK, IDS/IPS, análise de logs  
+- Segurança ofensiva (Red Team): metodologia de pentest, identificação e exploração controlada de vulnerabilidades  
+- Ferramentas práticas: **Nmap, Wireshark, Metasploit, Burp Suite, Wazuh, Snort, Docker, Linux/WSL**  
+- Desenvolvimento seguro: HTML, CSS, JavaScript, React, Python, Flask, MySQL, AWS
 
-✨ Sou movida pela paixão em tecnologia, inovação e segurança digital, unindo criatividade e disciplina para entregar soluções eficientes e confiáveis.  
-📌 Aqui no GitHub compartilho projetos em **Desenvolvimento Web, Cloud e Cibersegurança**, sempre aplicando boas práticas e buscando evolução contínua.  
+ Aqui neste GitHub compartilho:
+- **Labs e soluções de cibersegurança** (baseados no curso oficial da Kensei CyberSec Lab)  
+- **Projetos de desenvolvimento web**  
+- **Relatórios técnicos e write-ups de CTFs e desafios práticos**
+
+ Busco oportunidades em **Cibersegurança (Blue/Red Team, AppSec, SOC), Desenvolvimento Web Seguro e Cloud**, onde posso aplicar aprendizado técnico, senso crítico e compromisso ético para gerar impacto real.
 
 ---
 
